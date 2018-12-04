@@ -14,6 +14,9 @@ namespace GitTest
 
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("这是一个确认提交的更改");
             Console.WriteLine("Hello world！");
         }
     }

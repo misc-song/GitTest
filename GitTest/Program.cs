@@ -8,6 +8,10 @@ namespace GitTest
 {
     class Program
     {
+        //github 测试
+
+        //这是一个测试程序
+
         static void Main(string[] args)
         {
         }
